@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/discovery-service*.jar
+web: java $JAVA_OPTS -jar target/discovery-service-0.0.1-SNAPSHOT.jar
