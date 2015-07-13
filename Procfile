@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT target/discovery-service*.jar
+web: java -jar -Dserver.port=$PORT target/discovery-service*.jar --spring.profiles.active=heroku
